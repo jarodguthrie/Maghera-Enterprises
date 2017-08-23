@@ -16,13 +16,13 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url(images/office-header-image.jpg);
+    background-image: url("../images/office-header-image.jpg");
     min-height: 100%;
 }
 
 /* Second image (Portfolio) */
 .bgimg-2 {
-    background-image: url("images/blue-carpet-hall-header.jpg");
+    background-image: url("../images/blue-carpet-hall-header.jpg");
     min-height: 400px;
 }
 
